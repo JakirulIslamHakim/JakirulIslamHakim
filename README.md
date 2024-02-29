@@ -1,4 +1,4 @@
-<-- ![A passionate Junior web developer from Bangladesh](https://i.ibb.co/GC1W6QH/Screenshot-49.png) -->
+<!-- ![A passionate Junior web developer from Bangladesh](https://i.ibb.co/GC1W6QH/Screenshot-49.png) -->
 ### Hi there 👋, I am Jakirul  Islam Hakim
 #### A passionate Junior web developer from Bangladesh
 
