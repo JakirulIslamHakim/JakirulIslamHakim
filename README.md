@@ -4,7 +4,7 @@
 
 "Mastering the art of frontend development, I specialize in HTML, CSS, JavaScript, React, and more. With a passion for clean code and intuitive design, I bring projects to life with precision and creativity. Let's build something extraordinary."
 
-Skills:  HTML / CSS  / Tailwind / REACT / JS /  Express / Mongodb 
+Skills:  HTML / CSS  / Tailwind / Javascript / REACT / JS /  Express / Mongodb 
 
 - 🌱 I’m currently learning Javascript. 
 - 👯 I’m looking to collaborate on github 
