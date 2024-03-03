@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/p21dnGn/hakim-linkdin-cover.png))
 ### Hi there 👋, I am Jakirul  Islam Hakim
 #### A passionate Junior web developer from Bangladesh
 
